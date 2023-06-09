@@ -3,19 +3,19 @@ import { CiMobile1 } from "react-icons/ci";
 import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
-    name: "Website Design",
+    name: "Diseño Web",
     projects: 76,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
   {
-    name: "Mobile App Design",
+    name: "Desarrollo Web Ap",
     projects: 63,
     icon: CiMobile1,
     bg: "#EEC048",
   },
   {
-    name: "Brand Identity",
+    name: "Identidad de Marca",
     projects: 47,
     icon: MdWorkspacesOutline,
     bg: "#F26440",
@@ -23,96 +23,96 @@ export const projectExperience = [
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
-  "We use process design to create digital products. Besides that also help their business",
+  "Te ayudaré a encontrar una solución y resolver cualquier problema. Utilizamos los lineamientos fundamentales del diseño para crear productos digitales. Además de que también ayudan a sus negocios.",
+  "Usamos este proceso de diseño para crear productos digitales que ayuden a hacer crecer tu negocio y tu marca.",
 ];
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Freelancer, Mexico",
+    tenure: "Jul 1998 - Sep 2002",
+    role: "Administrador de Redes y Sistemas",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Un administrador de sistemas para una variedad de pequeñas y medianas empresas en Guadalajara, Mexico.",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "Orbit Metrocom Inc.",
+    tenure: "Oct 2002 - May 2008",
+    role: "Administrador de Sistemas",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Un administador de sistemas y desarrollo web para una start up de telecomunicaciones en Ontario, CA, USA.",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    place: "Emilianos Restaurant Sonoran Sun",
+    tenure: "Jul 2008 - Nov 2010",
+    role: "Desarrollo Web y Administador de Sistemas",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Desarrollador Web y administador de sistemas para una cadena de restaurantes en la ciudad de Puerto Peñasco Mexico.",
   },
 ];
 
 export const comments = [
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Esteban Linares",
+    post: "Gerente General",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Salvador tiene una etica de trabajo excelente, es muy eficaz y siempre va mas haya de lo que uno le solicita.",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Carlos Tabares",
+    post: "Administrador",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Es muy dificil encontrar buen soporte tecnico y que ademas tenga la paciencia y disposicion de explicar su proceso de trabajo.",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Ana Olivares",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Tome un curso presencial para el manejo de redes sociales y introduccion al Marketing que realmente me ayudo a crecer mi presencia en linea.",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Lilia Hernandez",
+    post: "Gerente General",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "La capacitacion nuestro personal fue muy buena, Salvador es muy atento y nunca te deja en visto cuando le mandas un mensaje.",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Rene Alvarado",
+    post: "Chef Ejecutivo",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Trabaje con Salvador por qprox. 3 años y durante ese tiempo no solo transformo la presencia de mi marca si no que tambien se convirtio en un buen amigo.",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Claudia Sandoval",
+    post: "Dentista Especializada",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Conosco a Salvador toda mi vida y es una persona con una etica de trabajo muy profesional y siempre cumple con lo prometido.",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Esmeralda Ortiz",
+    post: "Administrador",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Estoy muy contento con los servicios de Salvador, tenemos varios años colaborando, sus precios son justos y la calidad de sus trabajos es excelente.",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Adrian Andrade",
+    post: "Agencia de Marketing",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Como agencia colaboramos con varios desarrolladores web, y Salvador es simplemente el mejor, debido a eso siempre maneja nuestro clientes mas importantes.",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Felipe Guerrero",
+    post: "Freelancer",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Como agente independiente mi reputacion es crucial, y es por eso que Salvador es al que le refiero la mayoria de mis contratos.",
     img: "./people2.png",
   },
 ];
